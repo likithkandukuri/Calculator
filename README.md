@@ -12,7 +12,7 @@ This version extends basic arithmetic with percentage, power operations, and a d
 ## Requirements
 - Python 3.8
 
-## 🧾 Credits
+## Credits
 **Developer:** Likith Kumar Kandukuri  
 **Purpose:** Built to practice Python, strengthen problem-solving skills, and improve input handling.  
 **Year:** 2025
